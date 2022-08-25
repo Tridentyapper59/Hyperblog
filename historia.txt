@@ -1,0 +1,5 @@
+Este es un texto plano, ya que
+
+no se puede colocar colores, negrillas, imagenes entre otros,
+
+es decir, es solo texto simple.
